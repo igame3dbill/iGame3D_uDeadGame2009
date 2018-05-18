@@ -5,7 +5,7 @@ uDeadGame Postmortem 2009:
 Provocative and Interactive
 With uDeadGame, our uDevGames 2008 entry, we set out to create a provocative and interactive learning tool to initiate conversation about the spiritually sensitive controversy over appeasing the infinite hunger of the restless dead. To our surprise invididuals found it either entertaining, disappointing and/or disturbing. This unexpected result has lead the iGame3D team of experts to feel confident that people may like or perhaps even dislike a three dimensional first person zombie action adventure game. Such profound discoveries will certainly lead our research and development team to rich and meaningful technologies that will with out a doubt benefit all mankind.
 
-https://user-images.githubusercontent.com/238475/40210498-8308f20e-5a02-11e8-8981-60ac5fb18b98.png
+![img](https://user-images.githubusercontent.com/238475/40210498-8308f20e-5a02-11e8-8981-60ac5fb18b98.png)
 
 
 The iGame3D Engine Team
