@@ -1,5 +1,6 @@
 # iGame3D_uDeadGame2009
-3D First Person Zombie Command Masterpiece in iGame3D Game Engine using MurgaLua FLTK for Windows and Mac OS X 10.4(?)
+3D action horror first person real time strategy adventure.
+iGame3D Game Engine using MurgaLua (Lua 5.1) with FLTK for Windows and Mac OS X 10.4(?)
 
 uDeadGame Postmortem 2009:
 Provocative and Interactive
