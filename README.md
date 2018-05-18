@@ -29,7 +29,8 @@ and
 */uDeadGame/Data/Scripts/UDG_Functions/UDG_Keyboard.lua*
 can be modified to create new key bindings or activate these cheats.
 
-default/loadscript.lua
+#default/loadscript.lua
+
 Replacing the text inside the file: *uDeadGame/Data/Levels/default/load script.lua* with this:
 
 ```lua
@@ -41,8 +42,8 @@ gameroot=getSceneInfo(IG3D_ROOT)
 dofile(gameroot.."Data/Levels/default/default_Globals.lua")
 dofile(gameroot.."Data/Fluid/UI_MAIN_TOOLS/UI_MAIN_TOOLS.fl")
 TextBox_Levels_Menu()
-Will give you the full fledged undocumented buggy no undo iGame3D editor. That will look something like this
 ```
+Will give you the full fledged undocumented buggy no undo iGame3D editor.
 
 
 
