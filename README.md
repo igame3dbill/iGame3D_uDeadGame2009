@@ -1,7 +1,55 @@
 # iGame3D_uDeadGame2009
-3D First Person Zombie Command Masterpiece in iGame3D Game Engine using MurgaLua FLTK for Windows and Mac OS X 10.4(?)
+3D action horror first person real time strategy adventure.
+iGame3D Game Engine using MurgaLua (Lua 5.1) with FLTK for Windows and Mac OS X 10.4(?)
 
-uDeadGame Postmortem 2009:
+*This is the Mac OS X 10.4 version, zipped, since I don't know what Windows will do to the .app structure.*
+
+When there's no more room in hell, the dead will go to the arcade!
+You play as the uncanny intelligence for hordes of hungry living dead.
+Your goal in the game is to devour all the living on each of the 32 levels.
+
+Battle a cast of characters including thugs, prostitutes, office workers, police, 
+military, strangely suited guys, and mad scientists. 
+
+Revisit good times with surprise guests from previous iGame3D uDevGames entries.
+
+Modulate play between aggresive romps of flesh rending horror and strategic
+stalking to minimise casualities from the unbeatable human karate style, 
+the never ending rain of bullets and those spectacularly lethal grenades.
+
+Slip into zombie time slow motion to better target your dinner and 
+enjoy your crushing assaults with a cinematic style.
+
+This is a game every zombie in your family will love.
+
+What are you waiting for zombies?
+Get out there and shred some flesh!
+
+Cheat Keys are probably disabled on Windows.
+*/uDeadGame/Data/Scripts/UDG_Functions/UDG_Game.lua*
+and
+*/uDeadGame/Data/Scripts/UDG_Functions/UDG_Keyboard.lua*
+can be modified to create new key bindings or activate these cheats.
+
+#default/loadscript.lua
+
+Replacing the text inside the file: *uDeadGame/Data/Levels/default/load script.lua* with this:
+
+```lua
+-- Begin of auto-script
+LockScript = true
+-- End of auto-script
+if UIMainTools then UIMainTools:hide() end
+gameroot=getSceneInfo(IG3D_ROOT)
+dofile(gameroot.."Data/Levels/default/default_Globals.lua")
+dofile(gameroot.."Data/Fluid/UI_MAIN_TOOLS/UI_MAIN_TOOLS.fl")
+TextBox_Levels_Menu()
+```
+Will give you the full fledged undocumented buggy no undo iGame3D editor.
+
+
+
+#uDeadGame Postmortem 2009:
 Provocative and Interactive
 With uDeadGame, our uDevGames 2008 entry, we set out to create a provocative and interactive learning tool to initiate conversation about the spiritually sensitive controversy over appeasing the infinite hunger of the restless dead. To our surprise invididuals found it either entertaining, disappointing and/or disturbing. This unexpected result has lead the iGame3D team of experts to feel confident that people may like or perhaps even dislike a three dimensional first person zombie action adventure game. Such profound discoveries will certainly lead our research and development team to rich and meaningful technologies that will with out a doubt benefit all mankind.
 
