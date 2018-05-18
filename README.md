@@ -1,9 +1,11 @@
 # iGame3D_uDeadGame2009
-3D First Person Zombie Command Masterpiece in iGame3D Game Engine using MurgaLua FLTK
+3D First Person Zombie Command Masterpiece in iGame3D Game Engine using MurgaLua FLTK for Windows and Mac OS X 10.4(?)
 
 uDeadGame Postmortem 2009:
 Provocative and Interactive
 With uDeadGame, our uDevGames 2008 entry, we set out to create a provocative and interactive learning tool to initiate conversation about the spiritually sensitive controversy over appeasing the infinite hunger of the restless dead. To our surprise invididuals found it either entertaining, disappointing and/or disturbing. This unexpected result has lead the iGame3D team of experts to feel confident that people may like or perhaps even dislike a three dimensional first person zombie action adventure game. Such profound discoveries will certainly lead our research and development team to rich and meaningful technologies that will with out a doubt benefit all mankind.
+
+https://user-images.githubusercontent.com/238475/40210498-8308f20e-5a02-11e8-8981-60ac5fb18b98.png
 
 
 The iGame3D Engine Team
@@ -11,11 +13,14 @@ People often recognize us and shout “Hey iGame3D guys, how do you make such aw
 
 Tobias Opfermann, the ingenious creator of the iGame3D engine and an original uDevGames contender is responsible for every line of cryptic C spelling out the DNA of uDeadGames. Further he’s the brain that fed the majority of the game’s Lua scripts as well, if people run, shoot, or kung fu kick, thats Tobi’s grey matter at work. If a zombie leaps, eats, runs or trashes hotel room furniture like a rock star, thats Tobi’s mental faculties in play. Lucky for iGame3D, Tobi has plenty of brains. Enough to goad uDeadGame’s zombie horde on to an iPhone recently. One possible advertising them for that new phase of development is “Touch Tobi’s Brains.”
 
+https://user-images.githubusercontent.com/238475/40210503-89467a74-5a02-11e8-8597-2f601796e57e.png
+
 
 I credit myself with many titles and accomplishments at iGame3D — lately its raising an undead army, but generally I’m pretty much the interior designer. The iGame3D engine is an empty house of potential and I script the buttons and menus, fill the coffers of content, build the worlds and generally explore an the infinite chaotic universe of my own creation.
 
 iGame3D occasionally employs the talent of family and friends for various unpleasant tasks. Felix Gonsior let one of his harem of many zombies girlfriends out of her cage for uDeadGame. Marco Kittel produced an excellent up tempo ambient mix that was a hilight of the uDeadGame experience. Alisa Griffin produced zombie textures, timely level testing and bug reports as well as audio samples. Amy Griffin brought home the brains along with purchasing all the new models, textures, and audio.
 
+https://user-images.githubusercontent.com/238475/40210508-8da6295c-5a02-11e8-988b-7e81e161facf.png
 
 We wouldn’t be able to manipulate all these bits and vertices if wasn’t for legions of crack independent support teams providing software and services to our great cause. Apple hardware and software is the very backbone of iGame3D. The various programs that come preinstalled with our iMac and MacBook computers, get widely overlooked but are vital to our efforts. We’ve been literally tied to Xcode by a virtual umbilical cord for almost a decade.
 
@@ -41,6 +46,7 @@ We later combined the randomizer with our first person shooter scripts and quick
 
 On Christmas evening 2008 Tobi and I had a casual internet chat. In a holiday mood uDeadGame twitched its first sign of re-animation. Within an hour a dozen low poly models from TurboSquid were ready to face our zombies.January and February of 2008 were two months of two weeks intensive game development haulted by commitments to school and often hindered by bugs with the A-Star path finding scripts.
 
+https://user-images.githubusercontent.com/238475/40210512-916d36fc-5a02-11e8-9f35-665b40befa7d.png
 
 Game levels were created but couldn’t be tested effectively, followed by game levels being cannibalized and reworked several times, all needlessly, as changes to the A-Star system eventually solved most problems.
 
@@ -55,6 +61,7 @@ I don’t know if our new binary “.wtfb” format was much of a breakthrough. 
 What Went Right (and Wrong)
 When we finally went public with the current build, there were some complaints and comments that echoed our own. A lot could be done in a short time to feed everyone’s appetites, but we very much wanted to see as much feedback gathered on this incarnation of the game before returning to the dark wilderness of design.
 
+https://user-images.githubusercontent.com/238475/40210517-97f4f226-5a02-11e8-9919-34425e746b2e.png
 
 By the time the uDevGames public and peer voting feedback arrived we were already moving away from decayed corpses and on to the iPhone. The emailed messages resonated like the voices of ghosts freed from a mundane life by our zombie onslaught, some gleeful of the liberty uDeadGame offered, others frustrated as if playing damned them to eternal peril. Thats the kind of emotional response we hope to gather from our game playing fans, only its much more satistfying if there cries for help are immediate.
 
